@@ -10,4 +10,5 @@ If you like some repo in this org, don't forget give a star for them.
 Are you looking for a good repo?
 #### you can try it
 [LiteLoaderQQNT-Auto-Patch](https://github.com/Ad-closeNN-Team/LiteLoaderQQNT-Auto-Patch)
+
 It is a auto patcher of LiteLoaderQQNT and QQNT
