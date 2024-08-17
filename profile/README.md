@@ -5,6 +5,8 @@
 
 好用？简单？快捷？~~最佳答案：我不知道。~~
 
+---
+
 What is Ad-closeNN-Team? I don't know.
 
 I just know it is a good place to archive good things.
